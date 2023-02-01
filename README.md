@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Four card feature section
 
 This is a solution to the [Order summary card](https://www.frontendmentor.io/solutions/3column-preview-card-component--xxamoxSKH). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/screenshot.png)
-![](./design/screenshotmobile.png)
+![](./assets/design/screenshotdesktop.png)
+![](./assets/design/screenshotmobile.png)
 
 
 
