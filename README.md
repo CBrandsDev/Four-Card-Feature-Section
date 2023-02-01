@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/order-summary-card-1l-NIHvCfT)
-- Live Site URL: [Click Here](https://cbrandsdev.github.io/Order-Summary-Component)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/four-card-feature-section-2lFU_qZ0WL)
+- Live Site URL: [Click Here](https://cbrandsdev.github.io/Four-Card-Feature-Section/)
 
 ## My process
 
