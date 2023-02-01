@@ -48,8 +48,8 @@ header {
 }
 
 .cards {
-    width: 600px;
-    height: 400px;
+    width: 400px;
+    height: 220px;
     padding: 1.3em;
     display: flex;
     flex-direction: column;
@@ -59,7 +59,7 @@ header {
 }
 
 .cards img {
-    width: 110px;
+    width: 60px;
     padding: 10px;
     margin: 10px;
     align-self: flex-end;
